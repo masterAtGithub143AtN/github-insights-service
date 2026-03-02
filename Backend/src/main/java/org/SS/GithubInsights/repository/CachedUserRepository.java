@@ -1,0 +1,5 @@
+package org.SS.GithubInsights.repository;
+
+public class CachedUserRepository {
+
+}
